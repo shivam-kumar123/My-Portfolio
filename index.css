@@ -6,6 +6,8 @@ body{
     font-size: 780%;
     font-weight: 500;
     color: #069A8E;
+    /* remove margin-top when making nav-bar */
+    margin-top: 0%;
     margin-bottom: 0%;
 }
 #my-job{
