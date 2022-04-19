@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+}
+#my-name{
+    font-family: 'Square Peg', cursive , sans-serif;
+    font-size: 780%;
+    font-weight: 500;
+    color: #069A8E;
+    margin-bottom: 0%;
+}
+#my-job{
+    font-family: 'Inconsolata', monospace , sans-serif;
+    color: #069A8E;
+}
+.first-container{
+    padding: 2%;
+    background-color: #E4F9F5;
+    text-align: center;
+    position: relative;
+}
+.top-cloud{
+    position: relative;
+    left: 20%;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 27%;
+}
+.second-container{
+    padding: 1.5%;
+    text-align: center;
+}
+.images{
+    display: inline-block;
+    border-radius: 50%;
+    width: auto;
+    height: 27%;
+}
+.images2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 27%;
+}
+.about-me{
+    text-align: center;
+    font-family: 'Inconsolata', monospace , sans-serif;
+    font-size: 120%;
+    color: black;
+    font-weight: 600;
+    width: 40%;
+    height: auto;
+    position: relative;
+    left: 30%;
+}
+h1{
+    text-align: center;
+    color: #069A8E;
+    font-family: 'Inconsolata', monospace , sans-serif;
+    font-size: 180%;
+}
+a{
+    text-align: center;
+    color: #16047b;
+    font-family: 'Inconsolata', monospace , sans-serif;
+    font-size: 120%;
+    font-weight: 600;
+    margin: 5%;
+}
+.space{
+    margin-bottom: 8%;
+}
+.footer{
+    text-align: center;
+    font-family: 'Inconsolata', monospace , sans-serif;
+    font-size: 90%;
+    color: #047b6b;
+    font-weight: 600;
+    margin-top: 5%;
+}
+.fourth-container{
+    background-color: #EFFFFD;
+}
