@@ -68,7 +68,8 @@ a{
     font-family: 'Inconsolata', monospace , sans-serif;
     font-size: 120%;
     font-weight: 600;
-    margin: 20px;
+    margin: auto 1%;
+    width: 20.7%;
 }
 .space{
     margin-bottom: 8%;
@@ -83,6 +84,7 @@ a{
     color: #047b6b;
     font-weight: 600;
     margin-top: 5%;
+    display: inline-block;
 }
 .fourth-container{
     position: relative;
@@ -103,11 +105,11 @@ a{
     font-family: 'Inconsolata', monospace , sans-serif;
     color: #ffffff;
     font-size: 20px;
-    padding: 10px 20px 10px 20px;
+    padding: 1%;
     text-decoration: none;
     position: relative;
     top: 15%;
-    margin-left: 11%;
+    display: inline-block;
   }
   
   .btn:hover {
