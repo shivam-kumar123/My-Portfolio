@@ -100,14 +100,14 @@ a{
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
-    font-family: Arial;
+    font-family: 'Inconsolata', monospace , sans-serif;
     color: #ffffff;
-    font-size: 15px;
+    font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
     position: relative;
     top: 15%;
-    margin-left: 12.5%;
+    margin-left: 11%;
   }
   
   .btn:hover {
